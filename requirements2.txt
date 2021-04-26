@@ -1,0 +1,15 @@
+numpy
+ipywidgets
+cartopy
+matplotlib
+metpy
+xarray
+IPython
+ipyfilechooser
+pathlib
+pandas
+os
+datetime
+typing
+nbinteract
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
