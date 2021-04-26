@@ -1,3 +1,14 @@
 numpy
 ipywidgets
+cartopy
+matplotlib
+metpy
+xarray
+IPython
+ipyfilechooser
+pathlib
+pandas
+os
+datetime
+typing
 nbinteract
